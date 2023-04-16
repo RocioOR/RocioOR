@@ -1,4 +1,7 @@
-### Hi there 👋
+# Rocio Daniela Ramos Ortiz
+#### Un poco sobre mi.
+Tengo 17 años, estudio Ingenieria en Sistemas y Computacion en la Universidad Tecnologica del El Salvador, y lo que me llevo a estudiar esta carrera es porque en mis ultimos tres años aprendi a programar de hecho soy front end developer, y descubri que me gusta el mundo digital y todo lo que conlleva lenguajes de programacion. 
+
 
 <!--
 **RocioOR/RocioOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
